@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df1937644e2465d419a267c58da0ddfc, type: 3}
+  m_Name: Serpentine Tail 1
+  m_EditorClassIdentifier: Assembly-CSharp::TraitSO
+  id: tail_serpentine_01
+  displayName: Serpentine Tail
+  slot: 2
+  rarity: 0
+  element: Grass
+  icon: {fileID: 7482667652216324306, guid: 92a32ef62d8dbd1459fb798b1d77e7a5, type: 3}
+  prefab: {fileID: 4965025038705702331, guid: cface19f79473564980c15a644b43e92, type: 3}
+  lore: serp tail
+  hpFlat: 5
+  atkFlat: 15
+  defFlat: 10
+  speedMul: 1
+  tags:
+  - serpentine
